@@ -1,0 +1,4 @@
+opencv-python
+scenedetect
+tqdm
+ffmpeg-python
